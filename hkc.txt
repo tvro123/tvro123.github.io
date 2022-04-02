@@ -1,62 +1,3 @@
-凤凰资讯,http://hk60pp.3322.org:6061/6061
-凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
-凤凰资讯,,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://qlive.fengshows.cn/live720p/PIN.flv
-凤凰卫视,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰卫视,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-凤凰卫视,http://117.169.120.138:8080/live/fhchinese/index.m3u8
-凤凰卫视,hhttp://iptv.tvfix.org/hls/fhzw.m3u8
-凤凰卫视,http://qlive.fengshows.cn/live720p/PCC.flv
-凤凰HK,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-凤凰HK,http://qlive.fengshows.cn/live720p/PHK.flv
-三沙,http://fytv.eicp.net:6565/3
-HKC新闻LP,http://hk60pp.3322.org:6067/6067
-HKC财经LP,http://hk60pp.3322.org:6067/6067
-翡翠台(第1声道繁体),http://iptv.tvfix.org/hls/jade.m3u8
-翡翠台(第2声道简体),http://iptv.tvfix.org/hls/jade2.m3u8
-翡翠台海外版(粤语繁体),http://iptv.tvfix.org/hls/jadenhk.m3u8
-翡翠台海外版(普通话简体),http://iptv.tvfix.org/hls/jadenhk2.m3u8
-J2,http://iptv.tvfix.org/hls/j2.m3u8
-J2(第2声道),http://iptv.tvfix.org/hls/j22.m3u8
-无线新闻台,http://iptv.tvfix.org/hls/inews.m3u8
-明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
-明珠台(第2声道),http://iptv.tvfix.org/hls/pearl2.m3u8
-无线财经资讯台,http://iptv.tvfix.org/hls/finance.m3u8
-无线财经资讯台(第2声道),http://iptv.tvfix.org/hls/finance2.m3u8
-无线财经资讯台海外版,http://iptv.tvfix.org/hls/financenhk.m3u8
-TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
-TVBS新闻台,http://iptv.tvfix.org/hls/tvbsnews.m3u8
-美亚电影台(粤语),http://iptv.tvfix.org/hls/mydy.m3u8
-美亚电影台(普通话),http://iptv.tvfix.org/hls/mydy2.m3u8
-天映经典(粤语),http://iptv.tvfix.org/hls/tyjd.m3u8
-天映经典(普通话),http://iptv.tvfix.org/hls/tyjd2.m3u8
-Animax,http://iptv.tvfix.org/hls/animax.m3u8
-Animax(第2声道),http://iptv.tvfix.org/hls/animax2.m3u8
-Hands Up Channel,http://iptv.tvfix.org/hls/kid.m3u8
-Thrill,http://iptv.tvfix.org/hls/thrill.m3u8
-Thrill(第2声道),http://iptv.tvfix.org/hls/thrill2.m3u8
-tvN,http://iptv.tvfix.org/hls/tvn.m3u8
-tvN(第2声道),http://iptv.tvfix.org/hls/tvn.m3u8
-TVB经典台,http://iptv.tvfix.org/hls/tvbjd.m3u8
-TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
-TVB为食台(第2声道),http://iptv.tvfix.org/hls/tvbws2.m3u8
-TVB星河(粤语),http://iptv.tvfix.org/hls/tvbxh.m3u8
-TVB星河(普通话),http://iptv.tvfix.org/hls/tvbxh2.m3u8
-TVB功夫台(粤语),http://iptv.tvfix.org/hls/tvbkf.m3u8
-TVB功夫(普通话),http://iptv.tvfix.org/hls/tvbkf2.m3u8
-凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
-凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
-Discovery,http://iptv.tvfix.org/hls/discovery.m3u8
-国家地理,http://iptv.tvfix.org/hls/natlgeo.m3u8
-Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
-星空卫视,http://iptv.tvfix.org/hls/startv.m3u8
-Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
-亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-热播剧场,http://cord.tvxio.bestv.com.cn/v1_0/k91/0g0/api/live/m3u8/9/f7b8e434-e8df-46b0-bbda-5807610d58c7/medium/?myTokenPrefixCustomParameter=42&myTokenPrefixendtime=1554639828&myTokenPrefixhash=SxV4iLftnMMwXgGa8r9xOJQd9hVmcHo5XvDlmzzH2O4=
-好莱坞大片,http://cord.tvxio.bestv.com.cn/v1_0/k91/0g0/api/live/m3u8/6/7f69af54-c623-4782-879d-04560bce8a91/medium/?myTokenPrefixCustomParameter=88&myTokenPrefixendtime=1554639828&myTokenPrefixhash=xKa_49F96NytaceVdBKXhQ-wjIyArZzWeN19P4CJSP0=
 CCTV-1,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000018602&livemode=1&stbId=2&channel-id=ystenlive
 CCTV-1,http://111.40.196.9/PLTV/88888888/224/3221225513/index.m3u8
 CCTV-1,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
@@ -165,10 +106,4 @@ CCTV4k,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 黑莓电影,http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8
 黑莓电影,http://39.134.65.208/PLTV/88888888/224/3221225681/index.m3u8
 亚洲ATV,https://juyunlive.juyun.tv/live/24950198.m3u8
-1HD Music TV,http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-wHOBOC音乐台,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-aSIA,https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
-TVB无线新闻,https://nettvpro.live/hls/tvb.php?id=1
-TVB无线财经,https://nettvpro.live/hls/tvb.php?id=2
-TVB直播,https://nettvpro.live/hls/tvb.php?id=3
 
